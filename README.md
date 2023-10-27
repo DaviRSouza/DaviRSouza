@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/DaviRSouza/DaviRSouza/assets/144457305/ff01587a-403c-4d79-865e-7983191cd187" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/DaviRSouza/DaviRSouza/assets/144457305/8c43c2ae-fddd-4b25-973c-a08e3537b0f7" />
 <hr>
 <h2 align="center">Back End Developer</h2>
 <div  align="center" style="display: inline-block, margin-bottom:100px">
