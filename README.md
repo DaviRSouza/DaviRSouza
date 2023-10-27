@@ -1,6 +1,6 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/DaviRSouza/DaviRSouza/assets/144457305/ff01587a-403c-4d79-865e-7983191cd187" />
 <hr>
-<h3 align="center">Back end developer.</h3>
+<h2 align="center">Back end developer.</h2>
 <div  align="center" style="display: inline-block, margin-bottom:100px">
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRSouza&layout=compact&locale=pt-br&theme=transparent"/>
 <img width=53% align="center" src="https://github-readme-stats.vercel.app/api?username=DaviRSouza&locale=pt-br&show_icons=true&theme=transparent" />
