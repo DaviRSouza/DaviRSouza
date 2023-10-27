@@ -25,7 +25,7 @@
 ### Estudando
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=0e6bde)&nbsp;
 
-### DataBases
+### Databases
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84)
 ![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb&logoColor=white)
