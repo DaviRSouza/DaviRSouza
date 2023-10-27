@@ -1,9 +1,9 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://user-images.githubusercontent.com/144457305/278499866-ea3e3bbd-e25d-4052-9761-344d16f55cb6.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/DaviRSouza/DaviRSouza/assets/144457305/ff01587a-403c-4d79-865e-7983191cd187" />
 <hr>
-<p align="center">Back end developer.</p>
+<h3 align="center">Back end developer.</h3>
 <div  align="center" style="display: inline-block, margin-bottom:100px">
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRSouza&layout=compact&locale=pt-br&theme=shadow_red"/>
-<img width=53% align="center" src="https://github-readme-stats.vercel.app/api?username=DaviRSouza&locale=pt-br&show_icons=true&theme=shadow_red" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRSouza&layout=compact&locale=pt-br&theme=transparent"/>
+<img width=53% align="center" src="https://github-readme-stats.vercel.app/api?username=DaviRSouza&locale=pt-br&show_icons=true&theme=transparent" />
 </div>
 
 ## Skills
