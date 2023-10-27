@@ -1,12 +1,49 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://user-images.githubusercontent.com/144457305/278499866-ea3e3bbd-e25d-4052-9761-344d16f55cb6.png" />
 <hr>
-<p align="center">Eu ❤️ resolver grandes desafios usando tecnologia <br> <br> Tenho grande entusiasmo em explorar novas tecnologias e aplicá-las na criação de soluções de alto padrão. <br> Atualmente, estou no início da minha carreira como desenvolvedor back-end, com foco em desenvolvimento web.</p>
-
+<p align="center">Back end developer.</p>
 <div  align="center" style="display: inline-block, margin-bottom:100px">
-<img width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRSouza&layout=compact&locale=pt-br&theme=shadow_red"/>
-<img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=DaviRSouza&locale=pt-br&show_icons=true&theme=shadow_red" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRSouza&layout=compact&locale=pt-br&theme=shadow_red"/>
+<img width=53% align="center" src="https://github-readme-stats.vercel.app/api?username=DaviRSouza&locale=pt-br&show_icons=true&theme=shadow_red" />
 </div>
 
-## Meus conhecimentos
+## Skills
 ### Principais
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=e82d2f)&nbsp;
+![Sprint](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=6db33f)&nbsp;
+![Csharp](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=6c287e)&nbsp;
+<img src="https://github.com/DaviRSouza/DaviRSouza/assets/144457305/5d0e0663-6856-4d58-b48e-cc8aa54d1234" min-width="400px" max-width="400px" width="400px" align="right">
+
+
+### Secundarias
+![html](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
+![Css](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=7377ad)&nbsp;
+![NEXTJS](https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF)&nbsp;
+![REACT](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+
+### Estudando
+![Azure](https://img.shields.io/badge/Microsoft_Azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=0e6bde)&nbsp;
+
+### DataBases
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84)
+![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### Tools
+![VScode](https://img.shields.io/badge/Visual_Studio_Code-000?style=for-the-badge&logo=visual%20studio%20code&logoColor=429cd5)&nbsp;
+![VS2022](https://img.shields.io/badge/Visual_Studio-000?style=for-the-badge&logo=visual%20studio&logoColor=cb97f7)&nbsp;
+![Intelij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Bash](https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF)
+![Terminal](https://img.shields.io/badge/Windows%20Terminal-000000?style=for-the-badge&logo=windowsterminal&logoColor=FFFFFF)
+
+### Sistemas Operacionais
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=f2aa0e)
+![Windows](https://img.shields.io/badge/WINDOWS-000000?style=for-the-badge&logo=windows&logoColor=0078D6)
+
+## Contatos
+<a href="https://www.linkedin.com/in/davirsouza" target="_blank" rel="noopener noreferrer"> <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/> </a>
+<a href="mailto:davi.rsouz@outlook.com" target="_blank" rel="noopener noreferrer"> <img alt="E-mail" title="E-mail" src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/> </a>
