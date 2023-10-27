@@ -11,8 +11,8 @@
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=e82d2f)&nbsp;
 ![Sprint](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=6db33f)&nbsp;
 ![Csharp](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=6c287e)&nbsp;
-<img src="https://github.com/DaviRSouza/DaviRSouza/assets/144457305/5d0e0663-6856-4d58-b48e-cc8aa54d1234" min-width="400px" max-width="400px" width="400px" align="right">
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### Secundarias
 ![html](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
@@ -47,3 +47,5 @@
 ## Contatos
 <a href="https://www.linkedin.com/in/davirsouza" target="_blank" rel="noopener noreferrer"> <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/> </a>
 <a href="mailto:davi.rsouz@outlook.com" target="_blank" rel="noopener noreferrer"> <img alt="E-mail" title="E-mail" src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/> </a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f81f7&height=120&section=footer"/>
