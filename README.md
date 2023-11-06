@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f81f7&height=120&section=header"/>
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/DaviRSouza/DaviRSouza/assets/144457305/405049bc-f5ad-491b-bd1a-ba9ab56dc63e" />
 <hr>
 <h2 align="center">Back End Developer</h2>
