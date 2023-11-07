@@ -4,19 +4,19 @@
 <hr>
 <h2 align="center">Back End Developer</h2>
 <div  align="center" style="display: inline-block, margin-bottom:100px">
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRSouza&locale=pt-br&layout=donut&theme=transparent"/>
-<img width=59% align="center" src="https://github-readme-stats.vercel.app/api?username=DaviRSouza&locale=pt-br&show_icons=true&theme=transparent" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRSouza&layout=donut&theme=transparent"/>
+<img width=59% align="center" src="https://github-readme-stats.vercel.app/api?username=DaviRSouza&show_icons=true&theme=transparent" />
 </div>
 
 ## Skills
-### Principais
+### Main Skills
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=e82d2f)&nbsp;
 ![Sprint](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=6db33f)&nbsp;
 ![Csharp](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=6c287e)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-### Secundarias
+### Secondary skills
 ![html](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
 ![Css](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=7377ad)&nbsp;
@@ -24,10 +24,10 @@
 ![REACT](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 
-### Estudando
+### Studying
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=0e6bde)&nbsp;
 
-### Databases
+### Database
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84)
 ![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -41,12 +41,13 @@
 ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Bash](https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF)
 ![Terminal](https://img.shields.io/badge/Windows%20Terminal-000000?style=for-the-badge&logo=windowsterminal&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=a55eff)
 
-### Sistemas Operacionais
+### Operating system
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=f2aa0e)
 ![Windows](https://img.shields.io/badge/WINDOWS-000000?style=for-the-badge&logo=windows&logoColor=0078D6)
 
-## Contatos
+## Reach out to me on
 <a href="https://www.linkedin.com/in/davirsouza" target="_blank" rel="noopener noreferrer"> <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/> </a>
 <a href="mailto:davi.rsouz@outlook.com" target="_blank" rel="noopener noreferrer"> <img alt="E-mail" title="E-mail" src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/> </a>
 
