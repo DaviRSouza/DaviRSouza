@@ -1,5 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f81f7&height=120&section=header"/>
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/DaviRSouza/DaviRSouza/assets/144457305/405049bc-f5ad-491b-bd1a-ba9ab56dc63e" />
+<br>
+<img src="https://readme-typing-svg.herokuapp.com/?color=2f81f7&size=35&center=true&vCenter=true&width=1000&lines=Hi,+Welcome+To+My+Profile+^_^;I'm+18+years+old;I+am+a+programming+student;I+love+studying+technologies;Let's+code+our+way+to+the+future+together(⁠⊙⁠ω⁠⊙⁠)⁠！;"
 <hr>
 <h2 align="center">Back End Developer</h2>
 <div  align="center" style="display: inline-block, margin-bottom:100px">
