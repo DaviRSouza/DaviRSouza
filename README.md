@@ -11,7 +11,7 @@
 ## Skills
 ### Main Skills
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=e82d2f)&nbsp;
-![Sprint](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=6db33f)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=6db33f)&nbsp;
 ![Csharp](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=6c287e)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -20,7 +20,7 @@
 ![html](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
 ![Css](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=7377ad)&nbsp;
-![NEXTJS](https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF)&nbsp;
+![NEXTJS](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF)&nbsp;
 ![REACT](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 
