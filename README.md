@@ -16,7 +16,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-### Secondary skills
+### Secondary Skills
 ![html](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
 ![Css](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=7377ad)&nbsp;
@@ -43,11 +43,11 @@
 ![Terminal](https://img.shields.io/badge/Windows%20Terminal-000000?style=for-the-badge&logo=windowsterminal&logoColor=FFFFFF)
 ![Figma](https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=a55eff)
 
-### Operating system
+### Operating System
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=f2aa0e)
 ![Windows](https://img.shields.io/badge/WINDOWS-000000?style=for-the-badge&logo=windows&logoColor=0078D6)
 
-## Reach out to me on
+## Reach Out To Me On
 <a href="https://www.linkedin.com/in/davirsouza" target="_blank" rel="noopener noreferrer"> <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/> </a>
 <a href="mailto:davi.rsouz@outlook.com" target="_blank" rel="noopener noreferrer"> <img alt="E-mail" title="E-mail" src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/> </a>
 
