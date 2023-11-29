@@ -3,11 +3,13 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=2f81f7&size=35&center=true&vCenter=true&width=1000&lines=Hi,+Welcome+To+My+Profile+^_^;I'm+18+years+old;I+am+a+programming+student;I+love+studying+technologies;Let's+code+our+way+to+the+future+together(⁠⊙⁠ω⁠⊙⁠)⁠！;"
 <hr>
 <h2 align="center">Back End Developer</h2>
-<div  align="center" style="display: inline-block, margin-bottom:100px">
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRSouza&layout=donut&theme=transparent"/>
-<img width="50%" src="https://awesome-github-stats.azurewebsites.net/user-stats/DaviRSouza?cardType=github&Background=transparent&Text=2e575e&Title=2f81f7&Border=fff&Ring=2f81f7&width=41%&height=195px]https://git.io/awesome-stats-card" />
-</div>
 
+<div align="center">  
+<img width="45%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/DaviRSouza?cardType=github&Background=0D1117&Text=bbc8da&Title=2f81f7&Border=2f81f7&Ring=2f81f7&width=41%&height=195px]https://git.io/awesome-stats-card" />
+<img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRSouza&layout=compact&hide_border=false&border_color=2f81f7&title_color=2f81f7&text_color=bbc8da&bg_color=0d1117" /> 
+<br><br>
+</div>
+  
 ## Skills
 ### Main Skills
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=e82d2f)&nbsp;
