@@ -5,7 +5,7 @@
 <h2 align="center">Back End Developer</h2>
 
 <div align="center">  
-<img width="50%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/DaviRSouza?cardType=github&Background=0D1117&Text=bbc8da&Title=2f81f7&Border=2f81f7&Ring=2f81f7&width=41%&height=195px]https://git.io/awesome-stats-card" />
+<img width="52%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/DaviRSouza?cardType=github&Background=0D1117&Text=bbc8da&Title=2f81f7&Border=2f81f7&Ring=2f81f7&width=41%&height=195px]https://git.io/awesome-stats-card" />
 <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRSouza&layout=compact&hide_border=false&border_color=2f81f7&title_color=2f81f7&text_color=bbc8da&bg_color=0d1117" /> 
 <br><br>
 </div>
