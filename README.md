@@ -27,27 +27,32 @@
 ![html](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
 
 ### Studying
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=e82d2f)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=6db33f)&nbsp;
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=0e6bde)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 
 ### Database
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84)
-![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=316192)&nbsp;
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=4EA94B)&nbsp;
 
 ### Tools
+![Intelij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-000?style=for-the-badge&logo=visual%20studio%20code&logoColor=429cd5)&nbsp;
 ![VS2022](https://img.shields.io/badge/Visual_Studio-000?style=for-the-badge&logo=visual%20studio&logoColor=cb97f7)&nbsp;
-![Intelij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
+![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)&nbsp;
+![Bash](https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF)&nbsp;
+![Terminal](https://img.shields.io/badge/Windows%20Terminal-000000?style=for-the-badge&logo=windowsterminal&logoColor=FFFFFF)&nbsp;
+![Figma](https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=a55eff)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Bash](https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF)
-![Terminal](https://img.shields.io/badge/Windows%20Terminal-000000?style=for-the-badge&logo=windowsterminal&logoColor=FFFFFF)
-![Figma](https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=a55eff)
+![Trello](https://img.shields.io/badge/Trello-000000?style=for-the-badge&logo=trello&logoColor=0052CC)&nbsp;
 
 ### Operating System
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=f2aa0e)
-![Windows](https://img.shields.io/badge/WINDOWS-000000?style=for-the-badge&logo=windows&logoColor=0078D6)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=f2aa0e)&nbsp;
+![Windows](https://img.shields.io/badge/WINDOWS-000000?style=for-the-badge&logo=windows&logoColor=0078D6)&nbsp;
 
 ## Reach Out To Me On
 <a href="https://www.linkedin.com/in/davirsouza" target="_blank" rel="noopener noreferrer"> <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/> </a>
