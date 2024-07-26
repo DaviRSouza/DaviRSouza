@@ -1,8 +1,25 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/DaviRSouza/DaviRSouza/assets/144457305/405049bc-f5ad-491b-bd1a-ba9ab56dc63e" />
-<br>
-<img src="https://readme-typing-svg.herokuapp.com/?color=2f81f7&size=35&center=true&vCenter=true&width=1000&lines=Hi,+Welcome+To+My+Profile+^_^;I'm+18+years+old;I+am+a+programming+student;I+love+studying+technologies;Let's+code+our+way+to+the+future+together(⁠⊙⁠ω⁠⊙⁠)⁠！;"
-<hr>
 <h2 align="center">Software Developer</h2>
+<br>
+
+```java
+import java.util.List;
+import com.codeforge.universe.Developer;
+
+class AboutMe extends Developer {
+    String name = "Davi Ribeiro";
+    int age = 19;
+    String area = "Studying Software Engineering and back-end development";
+    String local = "SP/SP - Brazil";
+}
+
+class Skills extends Developer {
+    List<String> languages = List.of("Java", "C#", "SQL", "NoSQL", "JavaScript");
+    List<String> frameworks = List.of("Spring", ".NET", "React", "Next.JS", "Tailwind CSS");
+    List<String> clouds = List.of("AWS");
+    List<String> databases = List.of("PostgreSQL", "MySQL", "MongoDB");
+    List<String> tools = List.of("Git", "GitHub", "IntelliJ IDEA", "VSCode", "Docker", "Postman", "Bash", "Powershell");
+}
+```
 <br>
 <div align="center">  
 <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRSouza&layout=compact&hide_border=false&border_color=2f81f7&title_color=2f81f7&text_color=bbc8da&bg_color=0d1117" /> 
@@ -19,22 +36,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### Secondary Skills
-![NEXTJS](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![NEXTJS](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF)&nbsp;
 ![REACT](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=7377ad)&nbsp;
 ![Css](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
 ![html](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
 
 ### Studying
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=e82d2f)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=6db33f)&nbsp;
-![Azure](https://img.shields.io/badge/Microsoft_Azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=0e6bde)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=316192)&nbsp;
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=4EA94B)&nbsp;
 
@@ -45,8 +59,7 @@
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)&nbsp;
 ![Bash](https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF)&nbsp;
-![Terminal](https://img.shields.io/badge/Windows%20Terminal-000000?style=for-the-badge&logo=windowsterminal&logoColor=FFFFFF)&nbsp;
-![Figma](https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=a55eff)&nbsp;
+![Powershell](https://img.shields.io/badge/powershell-000000?style=for-the-badge&logo=powershell&logoColor=5391FE)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-000000?style=for-the-badge&logo=trello&logoColor=0052CC)&nbsp;
 
