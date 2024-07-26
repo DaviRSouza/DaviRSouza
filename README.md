@@ -1,25 +1,8 @@
-<h2 align="center">Software Developer</h2>
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/DaviRSouza/DaviRSouza/assets/144457305/405049bc-f5ad-491b-bd1a-ba9ab56dc63e" />
 <br>
-
-```java
-import java.util.List;
-import com.codeforge.universe.Developer;
-
-class AboutMe extends Developer {
-    String name = "Davi Ribeiro";
-    int age = 19;
-    String area = "Studying Software Engineering and back-end development";
-    String local = "SP/SP - Brazil";
-}
-
-class Skills extends Developer {
-    List<String> languages = List.of("Java", "C#", "SQL", "NoSQL", "JavaScript");
-    List<String> frameworks = List.of("Spring", ".NET", "React", "Next.JS", "Tailwind CSS");
-    List<String> clouds = List.of("AWS");
-    List<String> databases = List.of("PostgreSQL", "MySQL", "MongoDB");
-    List<String> tools = List.of("Git", "GitHub", "IntelliJ IDEA", "VSCode", "Docker", "Postman", "Bash", "Powershell");
-}
-```
+<img src="https://readme-typing-svg.herokuapp.com/?color=2f81f7&size=35&center=true&vCenter=true&width=1000&lines=Hi,+Welcome+To+My+Profile+^_^;I'm+18+years+old;I+am+a+programming+student;I+love+studying+technologies;Let's+code+our+way+to+the+future+together(⁠⊙⁠ω⁠⊙⁠)⁠！;"
+<hr>
+<h2 align="center">Software Developer</h2>
 <br>
 <div align="center">  
 <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRSouza&layout=compact&hide_border=false&border_color=2f81f7&title_color=2f81f7&text_color=bbc8da&bg_color=0d1117" /> 
