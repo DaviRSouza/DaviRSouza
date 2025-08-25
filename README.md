@@ -1,15 +1,3 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/DaviRSouza/DaviRSouza/assets/144457305/405049bc-f5ad-491b-bd1a-ba9ab56dc63e" />
-<br>
-<img src="https://readme-typing-svg.herokuapp.com/?color=2f81f7&size=35&center=true&vCenter=true&width=1000&lines=Hi,+Welcome+To+My+Profile+^_^;I'm+19+years+old;I+am+a+programming+student;I+love+studying+technologies;Let's+code+our+way+to+the+future+together(⁠⊙⁠ω⁠⊙⁠)⁠！;"
-<hr>
-<h2 align="center">Software Developer</h2>
-<br>
-<div align="center">  
-<img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRSouza&layout=compact&hide_border=false&border_color=2f81f7&title_color=2f81f7&text_color=bbc8da&bg_color=0d1117" /> 
-<img width="52%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/DaviRSouza?cardType=github&Background=0D1117&Text=bbc8da&Title=2f81f7&Border=2f81f7&Ring=2f81f7&width=41%&height=195px]https://git.io/awesome-stats-card" />
-<br><br>
-</div>
-  
 ## Skills
 ### Main Skills
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=e82d2f)&nbsp;
